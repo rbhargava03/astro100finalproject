@@ -1,4 +1,4 @@
-# Constructing an H-R Diagram with data from teh stellar cluster M67
+# Constructing an H-R Diagram with data from the stellar cluster M67
 
 M67 Hertzsprung–Russell Diagram
 
