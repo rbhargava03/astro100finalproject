@@ -1,4 +1,4 @@
-# astro100finalproject
+# Constructing an H-R Diagram with data from teh stellar cluster M67
 
 M67 Hertzsprung–Russell Diagram
 
